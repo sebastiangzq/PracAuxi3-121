@@ -1,0 +1,68 @@
+[
+    {
+        "materia": "Matem\u00e1tica",
+        "notaFinal": 85,
+        "estudiante": {
+            "ru": 1,
+            "nombre": "Luis",
+            "paterno": "Perez",
+            "materno": "Lopez",
+            "edad": 20
+        }
+    },
+    {
+        "materia": "Matem\u00e1tica",
+        "notaFinal": 95,
+        "estudiante": {
+            "ru": 2,
+            "nombre": "Ana",
+            "paterno": "Gomez",
+            "materno": "Rios",
+            "edad": 22
+        }
+    },
+    {
+        "materia": "F\u00edsica",
+        "notaFinal": 95,
+        "estudiante": {
+            "ru": 3,
+            "nombre": "Marta",
+            "paterno": "Soto",
+            "materno": "Lima",
+            "edad": 21
+        }
+    },
+    {
+        "materia": "Matem\u00e1tica",
+        "notaFinal": 85,
+        "estudiante": {
+            "ru": 1,
+            "nombre": "Luis",
+            "paterno": "Perez",
+            "materno": "Lopez",
+            "edad": 20
+        }
+    },
+    {
+        "materia": "Matem\u00e1tica",
+        "notaFinal": 95,
+        "estudiante": {
+            "ru": 2,
+            "nombre": "Ana",
+            "paterno": "Gomez",
+            "materno": "Rios",
+            "edad": 22
+        }
+    },
+    {
+        "materia": "F\u00edsica",
+        "notaFinal": 95,
+        "estudiante": {
+            "ru": 3,
+            "nombre": "Marta",
+            "paterno": "Soto",
+            "materno": "Lima",
+            "edad": 21
+        }
+    }
+]

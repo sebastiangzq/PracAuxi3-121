@@ -1,0 +1,17 @@
+[
+    {
+        "codigo": 1,
+        "nombre": "Mouse",
+        "precio": 10.5
+    },
+    {
+        "codigo": 2,
+        "nombre": "Teclado",
+        "precio": 25.0
+    },
+    {
+        "codigo": 3,
+        "nombre": "Monitor",
+        "precio": 150.0
+    }
+]
